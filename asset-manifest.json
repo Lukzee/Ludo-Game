@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ludo-Game/static/css/main.aaa6169b.css",
+    "main.js": "/Ludo-Game/static/js/main.f6ddf7ee.js",
+    "static/media/roll.mp3": "/Ludo-Game/static/media/roll.a4c196e58839debc59b8.mp3",
+    "static/media/background.jpg": "/Ludo-Game/static/media/background.2367f34abcf6cd0fff92.jpg",
+    "index.html": "/Ludo-Game/index.html",
+    "main.aaa6169b.css.map": "/Ludo-Game/static/css/main.aaa6169b.css.map",
+    "main.f6ddf7ee.js.map": "/Ludo-Game/static/js/main.f6ddf7ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa6169b.css",
+    "static/js/main.f6ddf7ee.js"
+  ]
+}

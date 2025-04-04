@@ -5,7 +5,7 @@ This project is a simple Ludo game built using React. It allows 4 players to pla
 
 ## Live Demo
 
-You can play the game live at [this link](https://sskhekhaliya.github.io/Ludo-react/).
+You can play the game live at [this link](https://lukzee.github.io/Ludo-Game/).
 
 ## Available Scripts
 **Getting Started**
@@ -18,14 +18,14 @@ You can play the game live at [this link](https://sskhekhaliya.github.io/Ludo-re
    - Clone this repository using the following command:
 
      ```bash
-     git clone [https://github.com/sskhekhaliya/Ludo-react.git](https://github.com/sskhekhaliya/Ludo-react.git)
+     git clone [https://github.com/Lukzee/Ludo-Game.git](https://github.com/Lukzee/Ludo-Game.git)
      ```
 
 3. **Installation:**
    - Navigate into the cloned directory:
 
      ```bash
-     cd Ludo-react
+     cd Ludo-Game
      ```
 
    - Install the project's dependencies:
@@ -64,11 +64,11 @@ You can play the game live at [this link](https://sskhekhaliya.github.io/Ludo-re
 
 ## Author
 
-**S. S. Khekhaliya**
+**Ibrahim Lukman**
 
-* Website: [sskhekhaliya](https://www.sskhekhaliya.com)
-* Instagram: [@sskhekhaliya](https://www.instagram.com/sskhekhaliya)
-* GitHub: [@sskhekhaliya](https://www.github.com/sskhekhaliya)
+* Website: [SoftBrein](https://www.softbrein.com)
+* Twitter: [@l9z1c0d9](https://www.x.com/l9z1c0d9)
+* GitHub: [@Lukzee](https://www.github.com/Lukzee)
 
 **Contributing**
 
